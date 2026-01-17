@@ -6,7 +6,7 @@ cuid: cmkf6fr5s000002jv3wfbgnl7
 slug: git-basics-and-terminologies-for-beginners
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1768464861918/122290db-eb28-4202-8a08-dc8a9fe70120.png
 ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1768465029036/f5360fc1-72e4-480a-a710-0f8fe1ca6e60.png
-tags: version-control, git, gitcommands, version-control-systems
+tags: version-control, git, gitcommands, webdevcohort, version-control-systems, chaiaurcode, chaicode, chaiaurcode-hiteshchoudhary-piyushgarg-genaicohort-genai-llm-personaprompting-geminiai-reactjs-nextjs-python-aichatbot-hashnode-promptengineering-vercel-hindienglishblog-devjourney, webdevcohort2026, chaicode-webdev-cohort-2026
 
 ---
 
