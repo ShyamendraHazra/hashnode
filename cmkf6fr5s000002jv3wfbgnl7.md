@@ -190,6 +190,6 @@ You can also create a “**.gitignore**” file, the file and directory names wr
 
 Above commands are few of the most commonly used Git commands and just enough for you to get started with Git in your projects. Although there are many more functionalities and tools Git offers but if you just use the above mentioned ones you can easily get started with it and then learn as you go.
 
-Git has become a very popular and very successful version control system because of it’s easy-to-use, fast, efficient and very intuitive commands. Due to wide adaption of Git many Git repository hosting services like Github, GItlab , Gitea, Bitbucket are build around the Git as an ecosystem. Git is an essential addition to your toolbox that will save you from a lot of trouble and will prove more useful as more time you spend in you development journey!
+Git has become a very popular and very successful version control system because of it’s easy-to-use, fast, efficient and very intuitive commands. Due to wide adaption of Git many Git repository hosting services like Github, Gitlab , Gitea, Bitbucket are built around the Git as an ecosystem. Git is an essential addition to your toolbox that will save you from a lot of trouble and will prove more useful as more time you spend in you development journey!
 
 Hopefully you learnt importance and basics of Git from this blog and now will easily be able to start using **Git**. **Thank you** for reading.
