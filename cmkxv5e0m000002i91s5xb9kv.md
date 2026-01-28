@@ -16,11 +16,11 @@ Today you are going to get a brief overview and some basic understanding of how 
 
 To understand how Internet works behind the scene and how you get connected to it, we first need to understand what the Internet actually is. Let’s start from you and we will gradually build up to the whole Internet, simple enough right? Alright.
 
-Yes it starts with you . How? When you are accessing the internet first and foremost you are part of a Local Area Network or LAN. What is this LAN now? It can be just made up of your handset if you are using Cellular or Mobile network providers on you Mobile or Cellphone. If you have taken a proper Router or WiFi connection from an ISP, it can be all the people at your home who use the same WiFi network.
+Yes it starts with you . How? When you are accessing the internet first and foremost you are part of a Local Area Network or LAN. What is this LAN now? If you have taken a proper WiFi connection from an ISP with a Router, it can be all the people at your home who use the same WiFi network including your own device.
 
 ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1769440109236/90be6b27-15a3-4653-be70-557183ec53c2.png align="center")
 
-It boils down to how many devices are using the same Modem to connect to your ISP at the same time, all of them are part of the same LAN. Each modem is a gateway between the ISP and the associated LAN. Now an ISP usually serves countless other LANs each connected to the ISP via their own Modems, think of your neighbors or whole neighborhood. And they all might not be using the same ISP. All the different ISPs are all connected in a Bigger Network and Those Networks are connect to form National and then International Networks and that is what Internet essentially is.
+It boils down to how many devices are using the same local network to connect to your ISP at the same time, all of them are part of the same LAN. Each modem is a gateway between the ISP and the associated LAN. Now an ISP usually serves countless other LANs each connected to the ISP via their own Modems, think of your neighbors or whole neighborhood. And they all might not be using the same ISP. All the different ISPs are all connected in a Bigger Network and Those Networks are connect to form National and then International Networks and they together form what Internet essentially is.
 
 ![](https://www.ufinet.com/wp-content/uploads/2019/07/world-submarine-cable-map.png align="left")
 
